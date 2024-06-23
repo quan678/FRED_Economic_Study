@@ -1,8 +1,8 @@
-# Fred Data Scraping Project
+# Fred Analysis: The US economy Project
 
 ## Introduction
 
-Welcome to the Fred Data Scraping Project! This project is designed to explore and analyze economic data from the Federal Reserve Economic Data (FRED) using Python. Our goal is to provide insights into various economic indicators such as GDP, unemployment rates, and international trade activities across the United States.
+Welcome to the Fred Analysis: The US economy Project! This project is designed to explore and analyze economic data from the Federal Reserve Economic Data (FRED) using Python. The goal is to provide insights into various economic indicators such as GDP, unemployment rates, and international trade activities across the United States.
 
 ## Project Overview
 
